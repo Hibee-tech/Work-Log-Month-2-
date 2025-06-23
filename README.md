@@ -18,7 +18,10 @@ Over the past two months, I focused intensively on improving my **JavaScript (in
  ⚠️ 3. Learnings from Failures or Challenges
 
 * ❌ **Struggled with async JavaScript** initially (e.g. `async/await`, promises), especially when dealing with simulated API calls. I overcame this by isolating small test examples and gradually integrating them into my projects.
-* ❌ Faced difficulties ensuring **consistent styling across browsers**, particularly with flex alignment and custom fonts. I learned to rely more on reset stylesheets and thoroughly test in multiple browsers.
+* ❌ Faced difficulties ensuring **consistent styling across browsers**, particularly with flex alignment and custom fonts. I learned to rely more on reset stylesheets and thoroughly test in multiple browsers. 
+
+
+
 * ❌ In early versions of my landing pages, I often ignored **accessibility (a11y)** considerations, but I’ve since started using semantic tags and ARIA labels more responsibly.
 
 
@@ -28,3 +31,6 @@ Over the past two months, I focused intensively on improving my **JavaScript (in
 * 🚀 Mastered JavaScript event delegation and form input validation without relying on libraries.
 * 📚 Began documenting my work using GitHub READMEs, making my code more maintainable and shareable.
 * 🧠 Gained deeper understanding of **CSS positioning**, `z-index`, and layering effects for modern UI.
+
+
+Reflecting on June, I’ve seen solid growth in both my technical skills and problem-solving approach. From building functional, responsive landing pages to diving into more complex JavaScript behaviors, I’ve gained confidence in my ability to turn ideas into interactive user interfaces. While challenges pushed me out of my comfort zone, they ultimately sharpened my understanding and discipline. I look forward to applying these lessons in even more advanced projects in the coming months.
